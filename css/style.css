@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+menu {
+    list-style: none;
+    padding: 0;
+
+}
